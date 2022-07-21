@@ -1,0 +1,17 @@
+.navo{
+    background-color:rgb(249, 110, 110)
+}
+.listi{
+
+    
+
+}
+.lis{
+  display:grid;
+  
+  align-items:center;
+  justify-content:center;
+  padding:10px;
+  font-size: 30px;
+
+}
